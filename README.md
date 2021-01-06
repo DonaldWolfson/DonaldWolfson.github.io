@@ -34,8 +34,10 @@ else:
 This [link](https://cse.ucsd.edu/index.php/undergraduate/tentative-course-offerings) creates stress.
 
 This [link](https://www.youtube.com/) creates relaxation.
+ 
+This [link](https://www.reddit.com/) is one of my favorite pass times.
 
-And this [link](https://www.reddit.com/) is one of my favorite pass times.
+And this [link](page2.md) is to the second page of my repo!
 
 ## An Interesting Quote I've Found
 
