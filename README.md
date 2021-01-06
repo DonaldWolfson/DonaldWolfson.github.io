@@ -1,4 +1,4 @@
-# Who am I?
+# Donald Wolfson's User Page
 
 Hello! My name is Donald Wolfson, I'm a third year Computer Science Major at the University of California, San Diego. I'm also a research intern at the Center for Applied Internet Data Analysis, based at the San Diego Supercomputer Center. I don't have a favorite programming language, but I'll list the ones I know in the order of how happy I would be to work with them:
 
