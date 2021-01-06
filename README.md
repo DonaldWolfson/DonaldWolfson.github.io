@@ -29,18 +29,6 @@ else:
     print("False")
 ~~~
 
-## Grocery List
-
-I need to keep track of the food I'm going to get from the grocery store. Since you're already here, I'm sure you'd like to see my list as well, so here it is:
-
-- [ ] :banana:
-- [ ] :green_apple:
-- [ ] :garlic:
-- [ ] :bread:
-- [ ] :cheese:
-- [ ] :ramen:
-- [ ] :shrimp:
-
 ## Links and what type of emotions they create
 
 This [link](https://cse.ucsd.edu/index.php/undergraduate/tentative-course-offerings) creates stress.
@@ -54,6 +42,12 @@ And this [link](https://www.reddit.com/) is one of my favorite pass times.
 Here is the first quote I found after looking up interesting code related quotes. As the wise **Martin Fowler** once said:
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
+## TODO List
+
+- [x] **Have _lunch_**
+- [ ] **Complete this lab**
+- [ ] **Go back and make this page more professional before someone sees it.**
 
 ## My Cats
 
