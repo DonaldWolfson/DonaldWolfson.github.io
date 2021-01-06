@@ -5,8 +5,8 @@ Hello! My name is Donald Wolfson, I'm a third year Computer Science Major at the
 1. C++
 2. Python
 3. Java
-4. C#
-5. C
+4. C
+5. C#
 6. ~~JavaScript~~
 
 ## What do I look like?
@@ -29,7 +29,19 @@ else:
     print("False")
 ~~~
 
-## Links and what type of emotions they create:
+## Grocery List
+
+I need to keep track of the food I'm going to get from the grocery store. Since you're already here, I'm sure you'd like to see my list as well, so here it is:
+
+[ ] :banana:
+[ ] :green_apple:
+[ ] :garlic:
+[ ] :bread:
+[ ] :cheese:
+[ ] :ramen:
+[ ] :shrimp:
+
+## Links and what type of emotions they create
 
 This [link](https://cse.ucsd.edu/index.php/undergraduate/tentative-course-offerings) creates stress.
 
