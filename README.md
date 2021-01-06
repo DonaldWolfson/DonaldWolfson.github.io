@@ -33,13 +33,13 @@ else:
 
 I need to keep track of the food I'm going to get from the grocery store. Since you're already here, I'm sure you'd like to see my list as well, so here it is:
 
-[ ] :banana:
-[ ] :green_apple:
-[ ] :garlic:
-[ ] :bread:
-[ ] :cheese:
-[ ] :ramen:
-[ ] :shrimp:
+- [ ] :banana:
+- [ ] :green_apple:
+- [ ] :garlic:
+- [ ] :bread:
+- [ ] :cheese:
+- [ ] :ramen:
+- [ ] :shrimp:
 
 ## Links and what type of emotions they create
 
