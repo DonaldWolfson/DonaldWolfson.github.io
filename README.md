@@ -19,7 +19,7 @@ It's not that big of a secret! But for now, you can enjoy this image I made with
 
 One of the more interesting things I've learned during my time at my CAIDA are *Regular Expressions*. They're an interesting way to find substrings using a variety of syntaxes, and can be very powerful. Below is a simply example in Python on how to search for the word the `the` inside of the given string. The sky is the limit with Regular Expressions.
 
-~~~Python
+~~~python
 import re
 re_the = re.compile(r"the")
 
